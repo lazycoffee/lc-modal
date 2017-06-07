@@ -5,7 +5,6 @@
   "main": "dist/index.js",
   "typings": "dist/src/ts/entry/index",
   "dependencies": {
-    "@flyme/normalize": "^1.0.0"
   },
   "devDependencies": {
     "@types/node": "^6.0.52",
